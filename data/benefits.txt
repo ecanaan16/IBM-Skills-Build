@@ -1,0 +1,51 @@
+PLAN OVERVIEW
+Our company health plan provides medical coverage for eligible employees and their dependents. Covered services include primary care visits, specialist visits, preventive care, emergency services, and certain diagnostic procedures such as X-rays, blood tests, and imaging.
+
+ELIGIBILITY
+Full-time employees are eligible for health coverage starting on the first day of the month following 30 days of continuous employment.
+Eligible dependents include:
+- Legal spouse
+- Domestic partner (where allowed by law)
+- Children up to age 26
+
+DEPENDENT ENROLLMENT
+Dependents can be added during:
+- Initial enrollment period
+- Annual open enrollment
+- A qualifying life event (marriage, birth, adoption, loss of other coverage)
+
+COPAYS AND COINSURANCE
+Primary care visit: $25 copay
+Specialist visit: $40 copay
+Emergency room: $150 copay, then 20% coinsurance
+Urgent care: $50 copay
+Preventive services (annual physical, vaccines, certain screenings): covered at 100% in-network
+
+DIAGNOSTIC SERVICES
+X-rays and basic imaging: 20% coinsurance after deductible
+Advanced imaging (MRI, CT): 30% coinsurance after deductible
+Lab tests and blood work: 10% coinsurance after deductible
+
+DEDUCTIBLES AND OUT-OF-POCKET MAXIMUM
+In-network annual deductible:
+- Individual: $1,500
+- Family: $3,000
+
+In-network out-of-pocket maximum:
+- Individual: $4,000
+- Family: $8,000
+
+Once the out-of-pocket maximum is reached, covered services are paid at 100% for the rest of the plan year.
+
+CLAIMS AND REIMBURSEMENT
+In-network providers usually file claims on your behalf.
+Out-of-network claims must be submitted by the member within 90 days of the service date. Reimbursement is based on the allowed amount and may be subject to balance billing.
+
+PREVENTIVE CARE
+The plan covers many preventive services at no cost when you use in-network providers, including:
+- Annual physical exams
+- Standard immunizations
+- Routine screening tests as recommended by clinical guidelines
+
+IMPORTANT NOTES
+This summary is for general guidance only and does not replace the official plan document. If there is a conflict between this summary and the plan document, the plan document will govern.
